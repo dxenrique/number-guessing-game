@@ -1,2 +1,2 @@
-# number-guessing-game
-casino number guessing game in cpp
+# TITLE- NUMBER GUESSING GAME 
+Author - dxenrique
